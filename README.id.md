@@ -12,7 +12,7 @@ Recaptan adalah aplikasi manajemen arus kas (pemasukan & pengeluaran) berbasis *
 ---
 
 ## 🔗 Live Demo
-- **URL Dashboard:** [Masukkan Link Cloudflare Worker Anda di sini, cth: https://finflow.namakamu.workers.dev]
+- **URL Dashboard:** [Masukkan Link Cloudflare Worker Anda di sini, cth: https://expense-bot.mayorbrutalty.workers.dev/]
 - **Access Code:** `12345` *(Masukkan kode akses demo Anda di sini)*
 
 ---
