@@ -23,7 +23,7 @@ Recaptan is a **Serverless-based** cash flow management application fully integr
 
 | Desktop Dashboard | Mobile Dashboard | Telegram Bot |
 | :---: | :---: | :---: |
-| <img src="dekstop.svg" width="250"/> | <img src="[LINK_MOBILE_IMAGE]" width="150"/> | <img src="[LINK_TELEGRAM_IMAGE]" width="150"/> |
+| <img src="dekstop.svg" width="250"/> | <img src="Mobile.svg" width="150"/> | <img src="Telegram.svg" width="150"/> |
 
 > **💡 Pro Tip:** Insert a `.gif` file showing you typing an expense in Telegram, and the Dashboard chart updating automatically.
 
