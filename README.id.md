@@ -25,7 +25,6 @@ Recaptan adalah aplikasi manajemen arus kas (pemasukan & pengeluaran) berbasis *
 | :---: | :---: | :---: |
 | <img src="dekstop.svg" width="250"/> | <img src="Mobile.svg" width="150"/> | <img src="Telegram.svg" width="150"/> |
 
-> **💡 Pro Tip:** Masukkan file berformat `.gif` yang menunjukkan saat Anda mengetik data di Telegram, grafik di Dashboard otomatis bergerak (update).
 
 ---
 
