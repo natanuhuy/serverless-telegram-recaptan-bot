@@ -12,7 +12,7 @@ Recaptan is a **Serverless-based** cash flow management application fully integr
 ---
 
 ## 🔗 Live Demo
-- **Dashboard URL:** [Insert your Cloudflare Worker URL here, e.g., https://finflow.yourname.workers.dev]
+- **Dashboard URL:** [Insert your Cloudflare Worker URL here, e.g., https://expense-bot.mayorbrutalty.workers.dev/]
 - **Access Code:** `12345` *(Insert your demo access code here)*
 
 ---
