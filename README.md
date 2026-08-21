@@ -7,7 +7,7 @@ Recaptan — A simple and aesthetic personal expense tracker for monitoring dail
 ![Platform](https://img.shields.io/badge/Platform-Cloudflare%20Workers-f38020?logo=cloudflare)
 ![Tech](https://img.shields.io/badge/Tech-Vanilla%20JS%20%7C%20HTML%20%7C%20CSS-yellow)
 
-Finflow is a **Serverless-based** cash flow management application fully integrated with the **Telegram Bot API**. This project is designed to log daily transactions quickly via chat and visualize them in real-time through an interactive web dashboard without requiring manual page reloads.
+Recaptan is a **Serverless-based** cash flow management application fully integrated with the **Telegram Bot API**. This project is designed to log daily transactions quickly via chat and visualize them in real-time through an interactive web dashboard without requiring manual page reloads.
 
 ---
 
