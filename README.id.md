@@ -7,7 +7,7 @@ Recaptan — Aplikasi pencatat pengeluaran pribadi yang sederhana dan estetis un
 ![Platform](https://img.shields.io/badge/Platform-Cloudflare%20Workers-f38020?logo=cloudflare)
 ![Tech](https://img.shields.io/badge/Tech-Vanilla%20JS%20%7C%20HTML%20%7C%20CSS-yellow)
 
-Finflow adalah aplikasi manajemen arus kas (pemasukan & pengeluaran) berbasis **Serverless** yang terintegrasi penuh dengan **Telegram Bot API**. Proyek ini dirancang untuk mencatat transaksi harian dengan cepat via chat, dan memvisualisasikannya secara *real-time* melalui Dashboard web interaktif tanpa perlu melakukan *refresh* halaman secara manual.
+Recaptan adalah aplikasi manajemen arus kas (pemasukan & pengeluaran) berbasis **Serverless** yang terintegrasi penuh dengan **Telegram Bot API**. Proyek ini dirancang untuk mencatat transaksi harian dengan cepat via chat, dan memvisualisasikannya secara *real-time* melalui Dashboard web interaktif tanpa perlu melakukan *refresh* halaman secara manual.
 
 ---
 
